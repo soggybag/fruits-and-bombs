@@ -29,6 +29,7 @@ let player_x = xyOffset
 let player_y = xyOffset
 let targetX = player_x 
 let targetY = player_y
+
 const minX = xyOffset - 100
 const maxX = xyOffset + (100 * 4)
 const minY = xyOffset - 100
