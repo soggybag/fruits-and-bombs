@@ -16,23 +16,23 @@ An analogy might be HTML as the bones, CSS as the skin or clothing, and JavaScri
 
 # Instructions
 1. Let's start in the `index.html` file
-  1. Find the `title` tag, and change it from `demo game` to something fun
-  2. Find the `h1` tag that holds our `boring game title`, and update it with a new fun and exciting name
-  3. Find the `link` to our stylesheet and add in the `href` attribute. Change this to: `href="style.css"`
-  4. Take a look at what's changed on the page
+    1. Find the `title` tag, and change it from `demo game` to something fun
+    2. Find the `h1` tag that holds our `boring game title`, and update it with a new fun and exciting name
+    3. Find the `link` to our stylesheet and add in the `href` attribute. Change this to: `href="style.css"`
+    4. Take a look at what's changed on the page
 2. Now over to the `style.css` file
-  1. Look through the images folder and find a cool alien you want to play as
-  2. In the `:root` rule, change the `--player-image` variable to your favorite alien
-  3. Let's also change the `--background-image` to your favorite wall
-  4. Now let's change the `--button-color` to something more readable
-  5. The buttons look better, but they might look better if they were round. Find the `.button` rule
-  6. Inside the `.button` rule lets add a new property `border-radius` and set it to a value of `50%`
+    1. Look through the images folder and find a cool alien you want to play as
+    2. In the `:root` rule, change the `--player-image` variable to your favorite alien
+    3. Let's also change the `--background-image` to your favorite wall
+    4. Now let's change the `--button-color` to something more readable
+    5. The buttons look better, but they might look better if they were round. Find the `.button` rule
+    6. Inside the `.button` rule lets add a new property `border-radius` and set it to a value of `50%`
 3. Now the page looks a lot better, let's make it work
-  1. Go back to the `index.html` file and find the `script` tag, add in the `src` attribute
-  2. Take a look at what's going on, things are moving now!
-  3. Find the `timePerBomb` and `timePerFruit` variable and change them until you find a balance you like.
-  4. Find the `makeObject` function, and inside find where the speeds of the objects are set.
-  5. change the speed of the bombs and fruits until you find a balance you like
+    1. Go back to the `index.html` file and find the `script` tag, add in the `src` attribute
+    2. Take a look at what's going on, things are moving now!
+    3. Find the `timePerBomb` and `timePerFruit` variable and change them until you find a balance you like.
+    4. Find the `makeObject` function, and inside find where the speeds of the objects are set.
+    5. change the speed of the bombs and fruits until you find a balance you like
 4. Looks good!
 
 
